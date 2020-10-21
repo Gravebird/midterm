@@ -20,6 +20,10 @@ body {
   clear: both;
 }
 
+#pizzaparagraph {
+  display: block;
+}
+
 #secondparagraph {
   display: block;
 }
