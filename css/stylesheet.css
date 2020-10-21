@@ -32,10 +32,6 @@ a:active {
   color: green;
 }
 
-a:visited {
-  color: silver;
-}
-
 #menu {
   background-color: #e7dec8;
 }
