@@ -14,3 +14,7 @@ body {
 #pizza {
   float: left;
 }
+
+#secondparagraph {
+  display: block;
+}
