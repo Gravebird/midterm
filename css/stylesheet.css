@@ -1,7 +1,8 @@
 header {
+  margin: 0px;
+  padding: 0px;
   background-color: #7e8a97;
   text-align: center;
-  width: 100%;
 }
 
 h2 {
@@ -18,9 +19,8 @@ body {
 
 nav {
   background-color: #7e8a97;
-  width: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   text-align: center;
 }
 
