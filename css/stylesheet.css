@@ -4,13 +4,13 @@ h1 {
 }
 
 body {
-  background-color: cbaf87;
+  background-color: #cbaf87;
 }
 
 #menu {
-  background-color: e7dec8;
+  background-color: #e7dec8;
 }
 
 #pizza {
-  float: none;
+  float: left;
 }
