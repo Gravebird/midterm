@@ -31,6 +31,7 @@ nav {
 #pizza {
   float: left;
   clear: both;
+  padding-right: 10px;
 }
 
 #pizzaparagraph {
