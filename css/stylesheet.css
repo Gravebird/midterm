@@ -26,4 +26,5 @@ body {
 
 #secondparagraph {
   display: block;
+  clear: both;
 }
