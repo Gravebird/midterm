@@ -21,15 +21,15 @@ h2 {
 }
 
 a:link {
-  color: blue:221;
+  color: blue;
 }
 
 a:hover {
-  color: red:31;
+  color: red;
 }
 
 a:active {
-  color: green:183;
+  color: green;
 }
 
 #menu {
