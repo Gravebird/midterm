@@ -1,5 +1,6 @@
 header {
   background-color: #7e8a97;
+  display: flex;
 }
 
 h1 {
@@ -20,6 +21,7 @@ body {
 
 nav {
   background-color: #7e8a97;
+  display: flex;
   margin: 0;
   padding: 0;
   text-align: center;
