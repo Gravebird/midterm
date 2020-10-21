@@ -24,6 +24,10 @@ body {
   background-color: #e7dec8;
 }
 
+#breakfast {
+  color: teal;
+}
+
 #navlist {
   list-style-type: none;
 }
