@@ -20,19 +20,19 @@ h2 {
   text-align: center;
 }
 
-a.link {
+a:link {
   color: blue:221;
 }
 
-a.visited {
+a:visited {
   color: silver;
 }
 
-a.hover {
+a:hover {
   color: red:31;
 }
 
-a.active {
+a:active {
   color: green:183;
 }
 
